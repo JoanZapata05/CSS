@@ -1,0 +1,38 @@
+body{
+    background-color: gray;
+}
+
+figure{
+    display: inline-block;
+
+}
+
+figure img{
+    width: 200px;
+    height: 300px;
+}
+
+.img1{
+    border:solid rgb(149, 149, 215);
+    border-width: 10px 20px 30px 70px;
+}
+  
+
+.img2{
+    border: double red;
+    border-width: 30px 80px 10px 40px;
+}   
+
+.img3{
+    border: inset rgb(31, 58, 182);
+    border-width: 80px 10px 50px 30px;
+}   
+
+.img4{
+    border:groove rgb(32, 207, 23);
+    border-width: 10px 20px 30px 70px;
+}   
+.img5{
+    border: ridge rgb(0, 0, 0);
+    border-width: 10px 20px 30px 70px;
+}   
